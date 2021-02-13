@@ -10,3 +10,9 @@ button {
 .clickme {
     margin-top: 4rem;
 }
+
+p {
+    font-weight: 900;
+    font-size: xx-large;
+    color: rgb(170, 0, 255);
+}
